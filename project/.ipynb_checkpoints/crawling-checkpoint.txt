@@ -1,0 +1,2 @@
+Common : https://majestic.com/reports/majestic-million
+Phishing : https://phishtank.org/developer_info.php
